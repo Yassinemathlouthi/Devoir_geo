@@ -33,7 +33,8 @@ appBar:
 
 
 database table:
-<img width="1917" height="968" alt="Screenshot 2025-11-27 101450" src="https://github.com/user-attachments/assets/85bf2476-5101-452c-a899-27b3965b5ce9" />
+<img width="1790" height="938" alt="image" src="https://github.com/user-attachments/assets/9e8d1c0e-6746-47e5-946d-6ac4eca21efc" />
+
 
 
 
