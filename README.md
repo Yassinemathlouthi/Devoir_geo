@@ -24,7 +24,8 @@ about page:
 
 
 appBar:
-<img width="378" height="834" alt="Screenshot 2025-11-27 100746" src="https://github.com/user-attachments/assets/f56f2e6d-e41d-4909-a65b-fcfda3dc29ff" />
+<img width="1786" height="880" alt="image" src="https://github.com/user-attachments/assets/d60cd88a-4684-48a4-8bd1-5de3f7f19e57" />
+
 
 
 
