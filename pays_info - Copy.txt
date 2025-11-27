@@ -1,0 +1,65 @@
+[
+  {
+    "nom": "France",
+    "capitale": "Paris",
+    "population": "67 millions",
+    "superficie": "643 801 km²",
+    "langues": "Français"
+  },
+  {
+    "nom": "Tunisie",
+    "capitale": "Tunis",
+    "population": "12 millions",
+    "superficie": "163 610 km²",
+    "langues": "Arabe"
+  },
+  {
+    "nom": "Brésil",
+    "capitale": "Brasília",
+    "population": "215 millions",
+    "superficie": "8 515 767 km²",
+    "langues": "Portugais"
+  },
+  {
+    "nom": "Italie",
+    "capitale": "Rome",
+    "population": "59 millions",
+    "superficie": "301 340 km²",
+    "langues": "Italien"
+  },
+  {
+    "nom": "Canada",
+    "capitale": "Ottawa",
+    "population": "39 millions",
+    "superficie": "9 984 670 km²",
+    "langues": "Anglais"
+  },
+  {
+    "nom": "Australie",
+    "capitale": "Canberra",
+    "population": "26 millions",
+    "superficie": "7 692 024 km²",
+    "langues": "Anglais"
+  },
+  {
+    "nom": "Allemagne",
+    "capitale": "Berlin",
+    "population": "84 millions",
+    "superficie": "357 022 km²",
+    "langues": "Allemand"
+  },
+  {
+    "nom": "Espagne",
+    "capitale": "Madrid",
+    "population": "47 millions",
+    "superficie": "505 990 km²",
+    "langues": "Espagnol"
+  },
+  {
+    "nom": "Afrique du Sud",
+    "capitale": "Pretoria",
+    "population": "60 millions",
+    "superficie": "1 219 090 km²",
+    "langues": "Afrikaans"
+  }
+]
